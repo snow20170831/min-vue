@@ -1,4 +1,4 @@
-# 1. init projest
+# 1. init project
 
 `pnpm init`
 
@@ -143,6 +143,8 @@ git init
 git add .
 
 git commit -m "init"
+
+git branch -M main
 
 # replace the url to the new created repository in the github
 git remote add origin git@github.com:your-username/your-repo.git
